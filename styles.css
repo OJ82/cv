@@ -1,0 +1,20 @@
+
+body {
+  background-color: #A6DCEF;
+  }
+  h1{
+    color:#0FABBC;
+  }
+h3  {
+    color:#0FABBC;
+  }
+  hr{
+    background-color:#A6DCEF;
+    border-style:dotted none none;
+    width: 3%;
+    border-color: grey;
+    border-width: 5px;
+  }
+  .table-header{
+    color:#0FABBC;
+  }
